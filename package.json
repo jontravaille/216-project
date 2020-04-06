@@ -1,0 +1,19 @@
+{
+  "name": "216-project",
+  "version": "1.0.0",
+  "description": "nyt public sentiment analysis",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "John Kang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "pluralize": "^8.0.0",
+    "pos": "^0.4.2",
+    "sentiment": "^5.0.2",
+    "wink-sentiment": "^5.0.2"
+  }
+}

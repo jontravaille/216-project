@@ -1,0 +1,702 @@
+[
+  {
+    uri: 'nyt://article/aa39e237-9a2b-5ced-a61d-952671d19514',
+    url: 'https://www.nytimes.com/2020/04/05/style/coronavirus-honeymoon-stranded.html',
+    id: 100000007065951,
+    asset_id: 100000007065951,
+    source: 'New York Times',
+    published_date: '2020-04-05',
+    updated: '2020-04-06 00:50:14',
+    section: 'Style',
+    subsection: '',
+    nytdsection: 'style',
+    adx_keywords: 'Travel and Vacations;Airlines and Airplanes;Travel ' +
+      'Warnings;Coronavirus ' +
+      '(2019-nCoV);Honeymoons;your-feed-selfcare;Maldives;Johannesburg ' +
+      '(South Africa)',
+    column: null,
+    byline: 'By David Zweig',
+    type: 'Article',
+    title: 'They Were the Last Couple in Paradise. Now Their Resort Life Continues.',
+    abstract: 'They were surrounded by a fleet of staff, who ' +
+      'were stranded themselves, trapped in an eternal ' +
+      'honeymoon in the Maldives. Their adventure ' +
+      'continues.',
+    des_facet: [
+      'Travel and Vacations',
+      'Airlines and Airplanes',
+      'Travel Warnings',
+      'Coronavirus (2019-nCoV)',
+      'Honeymoons',
+      'your-feed-selfcare'
+    ],
+    org_facet: [],
+    per_facet: [],
+    geo_facet: [ 'Maldives', 'Johannesburg (South Africa)' ],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/d0854847-4325-5162-8a74-746414727520',
+    url: 'https://www.nytimes.com/2020/04/05/world/coronavirus-live-news-updates.html',
+    id: 100000007071735,
+    asset_id: 100000007071735,
+    source: 'New York Times',
+    published_date: '2020-04-05',
+    updated: '2020-04-06 00:01:00',
+    section: 'World',
+    subsection: '',
+    nytdsection: 'world',
+    adx_keywords: 'Coronavirus (2019-nCoV)',
+    column: null,
+    byline: '',
+    type: 'Article',
+    title: 'Coronavirus Live Updates: Trump Again Promotes Use of ' +
+      'Unproven Anti-Malaria Drug; Deaths in Country May Be ' +
+      'Undercounted',
+    abstract: 'For the second straight day, the president pushed the ' +
+      'use of hydroxychloroquine, which has not been proven to ' +
+      'treat the coronavirus. Washington State is returning 400 ' +
+      'ventilators to be redeployed to states in more dire ' +
+      'need.',
+    des_facet: [ 'Coronavirus (2019-nCoV)' ],
+    org_facet: [],
+    per_facet: [],
+    geo_facet: [],
+    media: [],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/8ec20bb2-2caf-51a1-adc7-8d6074e063c5',
+    url: 'https://www.nytimes.com/2020/04/04/world/europe/germany-coronavirus-death-rate.html',
+    id: 100000007067360,
+    asset_id: 100000007067360,
+    source: 'New York Times',
+    published_date: '2020-04-04',
+    updated: '2020-04-05 13:48:40',
+    section: 'World',
+    subsection: 'Europe',
+    nytdsection: 'world',
+    adx_keywords: 'Coronavirus (2019-nCoV);Tests ' +
+      '(Medical);Hospitals;Epidemics;Quarantines;Ventilators ' +
+      '(Medical);Deaths (Fatalities);Merkel, Angela;Germany',
+    column: null,
+    byline: 'By Katrin Bennhold',
+    type: 'Article',
+    title: 'A German Exception? Why the Country’s Coronavirus Death Rate Is Low',
+    abstract: 'The pandemic has hit Germany hard, with more than 92,000 ' +
+      'people infected. But the percentage of fatal cases has been ' +
+      'remarkably low compared to those in many neighboring ' +
+      'countries.',
+    des_facet: [
+      'Coronavirus (2019-nCoV)',
+      'Tests (Medical)',
+      'Hospitals',
+      'Epidemics',
+      'Quarantines',
+      'Ventilators (Medical)',
+      'Deaths (Fatalities)'
+    ],
+    org_facet: [],
+    per_facet: [ 'Merkel, Angela' ],
+    geo_facet: [ 'Germany' ],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/26e7b1bb-4f5e-5d84-ad66-fc779b2ab1d9',
+    url: 'https://www.nytimes.com/2020/04/03/opinion/coronavirus-Tennessee-southern-states.html',
+    id: 100000007068987,
+    asset_id: 100000007068987,
+    source: 'New York Times',
+    published_date: '2020-04-03',
+    updated: '2020-04-05 20:55:44',
+    section: 'Opinion',
+    subsection: '',
+    nytdsection: 'opinion',
+    adx_keywords: 'Coronavirus (2019-nCoV);Shutdowns ' +
+      '(Institutional);Quarantines;Politics and Government;Health ' +
+      'Insurance and Managed Care;Lee, William Byron (1959- ' +
+      ');Tennessee;Nashville (Tenn);Southern States (US)',
+    column: null,
+    byline: 'By Margaret Renkl',
+    type: 'Article',
+    title: 'In the American South, a Perfect Storm Is Gathering',
+    abstract: 'In states with many uninsured citizens, few hospitals and leaders ' +
+      'who have not required citizens to stay home, a disaster is looming.',
+    des_facet: [
+      'Coronavirus (2019-nCoV)',
+      'Shutdowns (Institutional)',
+      'Quarantines',
+      'Politics and Government',
+      'Health Insurance and Managed Care'
+    ],
+    org_facet: [],
+    per_facet: [ 'Lee, William Byron (1959- )' ],
+    geo_facet: [ 'Tennessee', 'Nashville (Tenn)', 'Southern States (US)' ],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/5cf41b0b-9fc4-5b31-8697-9aa73672503c',
+    url: 'https://www.nytimes.com/2020/04/05/magazine/navy-captain-crozier-positive-coronavirus.html',
+    id: 100000007071958,
+    asset_id: 100000007071958,
+    source: 'New York Times',
+    published_date: '2020-04-05',
+    updated: '2020-04-05 14:11:49',
+    section: 'Magazine',
+    subsection: '',
+    nytdsection: 'magazine',
+    adx_keywords: 'Coronavirus (2019-nCoV);United States Defense and ' +
+      'Military Forces;Quarantines;Aircraft ' +
+      'Carriers;Modly, Thomas B;Crozier, Brett E;United ' +
+      'States Navy',
+    column: null,
+    byline: 'By John Ismay',
+    type: 'Article',
+    title: 'Navy Captain Removed From Carrier Tests Positive for Covid-19',
+    abstract: 'Captain Crozier was fired after a leak of a letter he had ' +
+      "emailed to Navy leaders detailing the service's failures in " +
+      'dealing with a coronavirus outbreak on the U.S.S. Theodore ' +
+      'Roosevelt.',
+    des_facet: [
+      'Coronavirus (2019-nCoV)',
+      'United States Defense and Military Forces',
+      'Quarantines',
+      'Aircraft Carriers'
+    ],
+    org_facet: [ 'United States Navy' ],
+    per_facet: [ 'Modly, Thomas B', 'Crozier, Brett E' ],
+    geo_facet: [],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/5102b753-893b-59f4-8665-7fdf4b7f7d10',
+    url: 'https://www.nytimes.com/article/coronavirus-homemade-mask-material-DIY-face-mask-ppe.html',
+    id: 100000007071229,
+    asset_id: 100000007071229,
+    source: 'New York Times',
+    published_date: '2020-04-05',
+    updated: '2020-04-05 17:57:59',
+    section: 'Well',
+    subsection: 'Live',
+    nytdsection: 'well',
+    adx_keywords: 'Masks;Coronavirus (2019-nCoV);Do It ' +
+      'Yourself;Protective Clothing and ' +
+      'Gear;Sewing',
+    column: null,
+    byline: 'By Tara Parker-Pope',
+    type: 'Article',
+    title: 'What’s the Best Material for a Mask?',
+    abstract: 'Scientists are testing everyday items to find the ' +
+      'best protection from coronavirus. Pillow cases, ' +
+      'flannel pajamas and origami vacuum bags are all ' +
+      'candidates.',
+    des_facet: [
+      'Masks',
+      'Coronavirus (2019-nCoV)',
+      'Do It Yourself',
+      'Protective Clothing and Gear',
+      'Sewing'
+    ],
+    org_facet: [],
+    per_facet: [],
+    geo_facet: [],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/ec662121-0b4b-53ba-b96d-53429868e5ef',
+    url: 'https://www.nytimes.com/2020/04/04/style/larry-david-curb-your-enthusiasm-coronavirus-psa.html',
+    id: 100000007064729,
+    asset_id: 100000007064729,
+    source: 'New York Times',
+    published_date: '2020-04-04',
+    updated: '2020-04-05 17:59:24',
+    section: 'Style',
+    subsection: '',
+    nytdsection: 'style',
+    adx_keywords: 'Coronavirus (2019-nCoV);Quarantines;David, Larry',
+    column: null,
+    byline: 'By Maureen Dowd',
+    type: 'Article',
+    title: 'Larry David, Master of His Quarantine',
+    abstract: 'Who better than the father of “Seinfeld” and “Curb Your ' +
+      'Enthusiasm” to guide us through the thicket of being together, ' +
+      'alone?',
+    des_facet: [ 'Coronavirus (2019-nCoV)', 'Quarantines' ],
+    org_facet: [],
+    per_facet: [ 'David, Larry' ],
+    geo_facet: [],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/9f13995a-e403-53eb-bff0-69943ab440dc',
+    url: 'https://www.nytimes.com/2020/04/04/us/politics/coronavirus-zoom-college-classes.html',
+    id: 100000007066082,
+    asset_id: 100000007066082,
+    source: 'New York Times',
+    published_date: '2020-04-04',
+    updated: '2020-04-05 10:45:41',
+    section: 'U.S.',
+    subsection: 'Politics',
+    nytdsection: 'u.s.',
+    adx_keywords: 'Coronavirus (2019-nCoV);Shutdowns (Institutional);Income ' +
+      'Inequality;Colleges and Universities;Scholarships and ' +
+      'Fellowships;Haverford College',
+    column: null,
+    byline: 'By Nicholas Casey',
+    type: 'Article',
+    title: 'College Made Them Feel Equal. The ' +
+      'Virus Exposed How Unequal Their Lives ' +
+      'Are.',
+    abstract: 'When they were all in the same dorms and eating the ' +
+      'same dining hall food, the disparities in students’ ' +
+      'backgrounds weren’t as clear as they are over video ' +
+      'chat.',
+    des_facet: [
+      'Coronavirus (2019-nCoV)',
+      'Shutdowns (Institutional)',
+      'Income Inequality',
+      'Colleges and Universities',
+      'Scholarships and Fellowships'
+    ],
+    org_facet: [ 'Haverford College' ],
+    per_facet: [],
+    geo_facet: [],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/84ace134-7ca6-5a9a-af13-e891048eb1a3',
+    url: 'https://www.nytimes.com/2020/04/04/opinion/sunday/coronavirus-trump-jared-kushner.html',
+    id: 100000007070349,
+    asset_id: 100000007070349,
+    source: 'New York Times',
+    published_date: '2020-04-04',
+    updated: '2020-04-05 20:55:43',
+    section: 'Opinion',
+    subsection: 'Sunday Review',
+    nytdsection: 'opinion',
+    adx_keywords: 'Coronavirus (2019-nCoV);United States Politics ' +
+      'and Government;Kushner, Jared;Trump, Donald J',
+    column: null,
+    byline: 'By Maureen Dowd',
+    type: 'Article',
+    title: 'He Went to Jared',
+    abstract: 'Heaven help us, we’re at the mercy of the Slim Suit crowd.',
+    des_facet: [
+      'Coronavirus (2019-nCoV)',
+      'United States Politics and Government'
+    ],
+    org_facet: [],
+    per_facet: [ 'Kushner, Jared', 'Trump, Donald J' ],
+    geo_facet: [],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/dfbf6d25-1c61-585a-85b0-5aa56d675613',
+    url: 'https://www.nytimes.com/2020/04/03/opinion/toilet-paper-hoarding-bidets.html',
+    id: 100000007062059,
+    asset_id: 100000007062059,
+    source: 'New York Times',
+    published_date: '2020-04-03',
+    updated: '2020-04-05 20:55:45',
+    section: 'Opinion',
+    subsection: '',
+    nytdsection: 'opinion',
+    adx_keywords: 'Bathrooms and Toilets;Coronavirus ' +
+      '(2019-nCoV);Hoarding;Stockpiling;Shortages;Cosmetics ' +
+      'and Toiletries',
+    column: null,
+    byline: 'By Kate Murphy',
+    type: 'Article',
+    title: 'Stop Using Toilet Paper',
+    abstract: 'Why are we hoarding it when experts agree that rinsing ' +
+      'with water is more sanitary and environmentally sound?',
+    des_facet: [
+      'Bathrooms and Toilets',
+      'Coronavirus (2019-nCoV)',
+      'Hoarding',
+      'Stockpiling',
+      'Shortages',
+      'Cosmetics and Toiletries'
+    ],
+    org_facet: [],
+    per_facet: [],
+    geo_facet: [],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/c2791d4c-23e1-50b3-bcd6-750428ad19a9',
+    url: 'https://www.nytimes.com/2020/04/04/us/coronavirus-china-travel-restrictions.html',
+    id: 100000007067986,
+    asset_id: 100000007067986,
+    source: 'New York Times',
+    published_date: '2020-04-04',
+    updated: '2020-04-05 10:40:18',
+    section: 'U.S.',
+    subsection: '',
+    nytdsection: 'u.s.',
+    adx_keywords: 'Coronavirus (2019-nCoV);Travel Warnings;Airport ' +
+      'Security;Airports;Airlines and ' +
+      'Airplanes;Epidemics;Quarantines;United States Politics and ' +
+      'Government;Trump, Donald J;United States;China;Wuhan (China)',
+    column: null,
+    byline: 'By Steve Eder, Henry Fountain, Michael H. ' +
+      'Keller, Muyi Xiao and Alexandra Stevenson',
+    type: 'Article',
+    title: '430,000 People Have Traveled From ' +
+      'China to U.S. Since Coronavirus ' +
+      'Surfaced',
+    abstract: 'There were 1,300 direct flights to 17 cities before ' +
+      'President Trump’s travel restrictions. Since then, nearly ' +
+      '40,000 Americans and other authorized travelers have made ' +
+      'the trip, some this past week and many with spotty ' +
+      'screening.',
+    des_facet: [
+      'Coronavirus (2019-nCoV)',
+      'Travel Warnings',
+      'Airport Security',
+      'Airports',
+      'Airlines and Airplanes',
+      'Epidemics',
+      'Quarantines',
+      'United States Politics and Government'
+    ],
+    org_facet: [],
+    per_facet: [ 'Trump, Donald J' ],
+    geo_facet: [ 'United States', 'China', 'Wuhan (China)' ],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/9c5ae3b0-8c81-5b74-aa79-7cb6811ed1ee',
+    url: 'https://www.nytimes.com/2020/04/04/opinion/coronavirus-ventilators.html',
+    id: 100000007069673,
+    asset_id: 100000007069673,
+    source: 'New York Times',
+    published_date: '2020-04-04',
+    updated: '2020-04-05 16:05:56',
+    section: 'Opinion',
+    subsection: '',
+    nytdsection: 'opinion',
+    adx_keywords: 'Coronavirus (2019-nCoV);Ventilators (Medical);Medical ' +
+      'Devices;Life-Sustaining Support Systems, Withdrawal ' +
+      'Of;Coma;Lungs;Deaths (Fatalities)',
+    column: null,
+    byline: 'By Kathryn Dreger',
+    type: 'Article',
+    title: 'What You Should Know Before You Need a Ventilator',
+    abstract: 'It breaks my heart that patients who will get sick enough ' +
+      'to need them won’t know what desperate situations they ' +
+      'face.',
+    des_facet: [
+      'Coronavirus (2019-nCoV)',
+      'Ventilators (Medical)',
+      'Medical Devices',
+      'Life-Sustaining Support Systems, Withdrawal Of',
+      'Coma',
+      'Lungs',
+      'Deaths (Fatalities)'
+    ],
+    org_facet: [],
+    per_facet: [],
+    geo_facet: [],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/192eb883-f606-579b-8a09-33751ab0ef0d',
+    url: 'https://www.nytimes.com/article/how-to-make-face-mask-coronavirus.html',
+    id: 100000007058106,
+    asset_id: 100000007058106,
+    source: 'New York Times',
+    published_date: '2020-03-31',
+    updated: '2020-04-03 19:07:14',
+    section: 'Style',
+    subsection: '',
+    nytdsection: 'style',
+    adx_keywords: 'Sewing;Coronavirus (2019-nCoV);Do It ' +
+      'Yourself;Masks;Protective Clothing and Gear;Hygiene ' +
+      'and ' +
+      'Cleanliness;your-feed-selfcare;your-feed-healthcare;your-feed-health',
+    column: null,
+    byline: 'By Tracy Ma and Natalie Shutler',
+    type: 'Article',
+    title: 'How to Sew a Face Mask',
+    abstract: 'A tutorial on how to make your own fabric ' +
+      'face mask from common household materials.',
+    des_facet: [
+      'Sewing',
+      'Coronavirus (2019-nCoV)',
+      'Do It Yourself',
+      'Masks',
+      'Protective Clothing and Gear',
+      'Hygiene and Cleanliness',
+      'your-feed-selfcare',
+      'your-feed-healthcare',
+      'your-feed-health'
+    ],
+    org_facet: [],
+    per_facet: [],
+    geo_facet: [],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/23b94cb1-266f-5288-bbe4-55a27a7aeed4',
+    url: 'https://www.nytimes.com/2020/04/04/world/coronavirus-live-news-updates.html',
+    id: 100000007071128,
+    asset_id: 100000007071128,
+    source: 'New York Times',
+    published_date: '2020-04-04',
+    updated: '2020-04-05 00:17:38',
+    section: 'World',
+    subsection: '',
+    nytdsection: 'world',
+    adx_keywords: 'Coronavirus (2019-nCoV)',
+    column: null,
+    byline: '',
+    type: 'Article',
+    title: 'Coronavirus Live Updates: Trump Warns of ‘a Lot of ' +
+      'Death’ While Also Revisiting Easter Sunday Services',
+    abstract: 'President Trump warns of what could be “the toughest ' +
+      'week,” while also saying he would like to consider ' +
+      'relaxing social distancing rules for Easter services.',
+    des_facet: [ 'Coronavirus (2019-nCoV)' ],
+    org_facet: [],
+    per_facet: [],
+    geo_facet: [],
+    media: [],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/5b0954a5-50b2-5207-a45d-c8001611baf5',
+    url: 'https://www.nytimes.com/2020/04/05/us/coronavirus-deaths-undercount.html',
+    id: 100000007070249,
+    asset_id: 100000007070249,
+    source: 'New York Times',
+    published_date: '2020-04-05',
+    updated: '2020-04-06 00:54:19',
+    section: 'U.S.',
+    subsection: '',
+    nytdsection: 'u.s.',
+    adx_keywords: 'Coronavirus (2019-nCoV);Deaths ' +
+      '(Fatalities);Tests (Medical);Ventilators ' +
+      '(Medical);Quarantines',
+    column: null,
+    byline: 'By Sarah Kliff and Julie Bosman',
+    type: 'Article',
+    title: 'Official Counts Understate the U.S. Coronavirus Death Toll',
+    abstract: 'Inconsistent protocols, limited resources and a patchwork ' +
+      'of decision-making has led to an undercounting of people ' +
+      'with the coronavirus who have died, health experts say.',
+    des_facet: [
+      'Coronavirus (2019-nCoV)',
+      'Deaths (Fatalities)',
+      'Tests (Medical)',
+      'Ventilators (Medical)',
+      'Quarantines'
+    ],
+    org_facet: [],
+    per_facet: [],
+    geo_facet: [],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/9cb8494a-4529-5f18-b3a8-c4cef1700668',
+    url: 'https://www.nytimes.com/2020/04/04/world/europe/italy-coronavirus-antibodies.html',
+    id: 100000007064042,
+    asset_id: 100000007064042,
+    source: 'New York Times',
+    published_date: '2020-04-04',
+    updated: '2020-04-05 11:58:17',
+    section: 'World',
+    subsection: 'Europe',
+    nytdsection: 'world',
+    adx_keywords: 'Coronavirus (2019-nCoV);Antibodies;Tests ' +
+      '(Medical);Politics and Government;Economic Conditions and ' +
+      'Trends;Labor and Jobs;Shutdowns ' +
+      '(Institutional);Quarantines;Research;Epidemics;Genetics ' +
+      'and Heredity;Deaths (Fatalities);Italy',
+    column: null,
+    byline: 'By Jason Horowitz',
+    type: 'Article',
+    title: 'In Italy, Going Back to Work May Depend on Having the Right Antibodies',
+    abstract: 'Weighing an idea that might once have been relegated to ' +
+      'science fiction, Italy once again finds itself in the ' +
+      'unfortunate vanguard of Western democracies grappling with the ' +
+      'coronavirus.',
+    des_facet: [
+      'Coronavirus (2019-nCoV)',
+      'Antibodies',
+      'Tests (Medical)',
+      'Politics and Government',
+      'Economic Conditions and Trends',
+      'Labor and Jobs',
+      'Shutdowns (Institutional)',
+      'Quarantines',
+      'Research',
+      'Epidemics',
+      'Genetics and Heredity',
+      'Deaths (Fatalities)'
+    ],
+    org_facet: [],
+    per_facet: [],
+    geo_facet: [ 'Italy' ],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/d6f75f64-ee36-5bfe-a3db-35e88824f455',
+    url: 'https://www.nytimes.com/2020/04/04/nyregion/coronavirus-hospital-brooklyn.html',
+    id: 100000007069832,
+    asset_id: 100000007069832,
+    source: 'New York Times',
+    published_date: '2020-04-04',
+    updated: '2020-04-05 12:57:47',
+    section: 'New York',
+    subsection: '',
+    nytdsection: 'new york',
+    adx_keywords: 'Coronavirus (2019-nCoV);Hospitals;Doctors;Nursing and ' +
+      'Nurses;Protective Clothing and Gear;Masks;Ventilators (Medical);Drugs ' +
+      '(Pharmaceuticals);Shortages;Emergency Medical Treatment;Deaths ' +
+      '(Fatalities);Rationing and Allocation of Resources;Brooklyn Hospital ' +
+      'Center;Brooklyn (NYC)',
+    column: null,
+    byline: 'By Sheri Fink',
+    type: 'Article',
+    title: '‘Code Blue’: A Brooklyn I.C.U. Fights ' +
+      'for Each Life in a Coronavirus Surge',
+    abstract: 'Nearly every patient was on a ventilator. Some were in their ' +
+      '80s, some in their 30s. Medical workers were falling fast and ' +
+      'had to be resourceful — “the alternative,” one said, “is ' +
+      'death.”',
+    des_facet: [
+      'Coronavirus (2019-nCoV)',
+      'Hospitals',
+      'Doctors',
+      'Nursing and Nurses',
+      'Protective Clothing and Gear',
+      'Masks',
+      'Ventilators (Medical)',
+      'Drugs (Pharmaceuticals)',
+      'Shortages',
+      'Emergency Medical Treatment',
+      'Deaths (Fatalities)',
+      'Rationing and Allocation of Resources'
+    ],
+    org_facet: [ 'Brooklyn Hospital Center' ],
+    per_facet: [],
+    geo_facet: [ 'Brooklyn (NYC)' ],
+    media: [],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/cef396f9-12a4-5c43-9f1b-661f4da0ea47',
+    url: 'https://www.nytimes.com/2020/04/05/nyregion/coronavirus-new-york-update.html',
+    id: 100000007071644,
+    asset_id: 100000007071644,
+    source: 'New York Times',
+    published_date: '2020-04-05',
+    updated: '2020-04-06 02:04:04',
+    section: 'New York',
+    subsection: '',
+    nytdsection: 'new york',
+    adx_keywords: 'Coronavirus (2019-nCoV);Trump, Donald ' +
+      'J;New York State;New York City;New ' +
+      'Jersey',
+    column: null,
+    byline: '',
+    type: 'Article',
+    title: 'Daily Death Toll in N.Y. Sees a One-Day Drop, Cuomo Says',
+    abstract: 'On Sunday, New York State reported 594 new deaths, but 630 the ' +
+      'day before. The governor cautioned that it could be a “blip.”',
+    des_facet: [ 'Coronavirus (2019-nCoV)' ],
+    org_facet: [],
+    per_facet: [ 'Trump, Donald J' ],
+    geo_facet: [ 'New York State', 'New York City', 'New Jersey' ],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/6c47bdb4-1eb9-53b7-b814-14d3c97c4a91',
+    url: 'https://www.nytimes.com/2020/04/03/health/coronavirus-bcg-vaccine.html',
+    id: 100000007069665,
+    asset_id: 100000007069665,
+    source: 'New York Times',
+    published_date: '2020-04-03',
+    updated: '2020-04-05 00:24:55',
+    section: 'Health',
+    subsection: '',
+    nytdsection: 'health',
+    adx_keywords: 'your-feed-science;Vaccination and ' +
+      'Immunization;Coronavirus (2019-nCoV);Infant ' +
+      'Mortality;Immune System;Tuberculosis;Clinical ' +
+      'Trials;Third World and Developing Countries',
+    column: null,
+    byline: 'By Roni Caryn Rabin',
+    type: 'Article',
+    title: 'Can an Old Vaccine Stop the New Coronavirus?',
+    abstract: 'A tuberculosis vaccine invented a century ago is cheap ' +
+      'and safe, and seems to bolster the body’s immune system.',
+    des_facet: [
+      'your-feed-science',
+      'Vaccination and Immunization',
+      'Coronavirus (2019-nCoV)',
+      'Infant Mortality',
+      'Immune System',
+      'Tuberculosis',
+      'Clinical Trials',
+      'Third World and Developing Countries'
+    ],
+    org_facet: [],
+    per_facet: [],
+    geo_facet: [],
+    media: [ [Object] ],
+    eta_id: 0
+  },
+  {
+    uri: 'nyt://article/a9bd8bec-bacf-5d0e-b41d-fb81e39bf599',
+    url: 'https://www.nytimes.com/2020/04/05/magazine/first-coronavirus-patient-new-jersey.html',
+    id: 100000007071222,
+    asset_id: 100000007071222,
+    source: 'New York Times',
+    published_date: '2020-04-05',
+    updated: '2020-04-05 20:24:31',
+    section: 'Magazine',
+    subsection: '',
+    nytdsection: 'magazine',
+    adx_keywords: 'Coronavirus (2019-nCoV);Remdesivir (Drug);Hydroxychloroquine ' +
+      '(Drug);Chloroquine (Drug);Doctors;Cai, James (1988- );Hackensack ' +
+      'University Medical Center;Gilead Sciences Inc;New Jersey;Bergen ' +
+      'County (NJ)',
+    column: null,
+    byline: 'By Susan Dominus',
+    type: 'Article',
+    title: 'How New Jersey’s First Coronavirus Patient Survived',
+    abstract: 'James Cai’s case was completely new to his doctors. When he ' +
+      'grew severely ill, he tapped a network of Chinese and ' +
+      'Chinese-American medical colleagues who helped save his ' +
+      'life.',
+    des_facet: [
+      'Coronavirus (2019-nCoV)',
+      'Remdesivir (Drug)',
+      'Hydroxychloroquine (Drug)',
+      'Chloroquine (Drug)',
+      'Doctors'
+    ],
+    org_facet: [ 'Hackensack University Medical Center', 'Gilead Sciences Inc' ],
+    per_facet: [ 'Cai, James (1988- )' ],
+    geo_facet: [ 'New Jersey', 'Bergen County (NJ)' ],
+    media: [ [Object] ],
+    eta_id: 0
+  }
+]
